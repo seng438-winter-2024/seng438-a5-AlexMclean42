@@ -4,10 +4,10 @@
 
 | Group \#:       |   |
 |-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Dominic Gartner  |   |
+| Noel Thomas                |   |
+| Alex Mclean                |   |
+| Hamd Khan                |   |
 
 # Introduction
 
