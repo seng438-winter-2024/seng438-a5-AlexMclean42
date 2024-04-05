@@ -125,12 +125,12 @@ Smallest MTTFMin before not being acceptable = 0.087
 As a team, we decided to split the work by sections. Two members worked on the first part of the lab on "Reliability Growth Testing" while the other two members worked on the second part on "Assessment using reliability demonstration chart". Once both parts were completed, all members reviewed the work of others, and gave feedback if needed. This divided the work load between team members, while achieving effective progress. 
 
 # Difficulties encountered, challenges overcome, and lessons learned
-Throughout this assignment, we did not face any major challenges as a group. But we had a lot of difficulties encountered with trying to download the C-SFRAT and running the data on it. As everyone in the group had mac's it was a lot harder to run and use the program! We tried may different virtual machines, which included: 
+Throughout this assignment, we did not face any major challenges as a group. But we had a lot of difficulties encountered with trying to download the START and running the data on it. As everyone in the group had mac's it was a lot harder to run and use the program! We tried may different virtual machines, which included: 
 - University of Calgary's Windows 10 VMware Horizon Client (Didn't work as they don't have Java installed, and don't let you run .exe files without admin approval) 
 - UTM Windows VM (We were not able to create an instance what wouldn't crash when trying to login to windows)
 - University of Calgary's own computers (Didn't work as they don't have Java installed, and don't let you run .exe files without admin approval)
-
-We ended up getting it working using Azure's VM, but this entire process was such a pain to over come. Maybe it might have been easier to use a different growth testing software... (If we did this lab again...)
+- Azure's VM (Didn't work)
+We ended up getting it working using C-SFRAT, but this entire process was such a pain to over come.
 
 # Comments/feedback on the lab itself
 Other then the major challenge faced above, we really enjoyed this lab, it was helpful getting us familiar with the growth testing process, and using some concepts we learned in class in a real time environment. We found the lab document itself great and very easy to understand. Furthermore, the lab structure allowed for effective learning of testing methodologies and signified the importance of testing in a variety of methods.
