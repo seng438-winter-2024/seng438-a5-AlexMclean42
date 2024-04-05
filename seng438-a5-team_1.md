@@ -84,13 +84,19 @@ Smallest MTTFMin before not being acceptable = 0.087
 
 
 # Comparison of Results
-### **Similarities:**
-- Both techniques aim to assess the reliability of the system under test.
-- They involve analyzing failure data to make informed decisions about the system's reliability.
-### Differences:
-- Reliability growth testing focuses on analyzing the trend of failure data over time to assess improvements in reliability during testing phases.
-- RDC, on the other hand, assesses reliability based on cumulative failure observations and is particularly useful when failure data is limited and time of failures is known.
-- The techniques use different tools and methodologies for analysis (C-SFRAT for reliability growth testing and RDC for reliability demonstration chart).
+### **Reliability Growth Testing (Using C-SFRAT):**
+
+- The selected models for reliability growth testing were the truncated logistic and IFR generalized Salvia and Bollinger models.
+- The log-likelihood method was used to select models based on the closeness of the model-generated curves to the actual data points.
+- Qualitative analysis of the graphs supported the selection of the chosen models.
+- The entire range of data was utilized for analysis, considering its high quality and representation of the system's performance during operational phases.
+
+### **Reliability Demonstration Chart (RDC):**
+
+- The data chosen for RDC analysis was CRS3.Data.
+- The smallest MTTFMin before the system became unacceptable was found to be 0.087.
+- MTTFmin chosen for analysis was 0.087.
+- Further analysis was conducted by setting MTTF to twice and half the chosen MTTFmin, resulting in values of 0.174 and 0.0435 respectively.
 
 
 # Discussion on Similarity and Differences of the Two Techniques
