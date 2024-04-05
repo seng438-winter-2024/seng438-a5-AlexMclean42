@@ -10,8 +10,7 @@
 | Hamd Khan                |   |
 
 # Introduction
-
-# ADD ME HERE!! (DELETE ME)
+This report explores two distinct approaches to software reliability assessment: Reliability Growth Testing and Reliability Demonstration Chart (RDC).
 
 
 
