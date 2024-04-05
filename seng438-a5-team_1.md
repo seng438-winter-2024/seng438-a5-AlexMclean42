@@ -32,6 +32,31 @@ We selected the truncated logistic and IFR generalized Salvia and Bollinger mode
 After careful examination of the fault graph and considering the quality and characteristics of the data presented, we have decided to utilize the entire range of data for our analysis. The data quality has been assessed as high, with no significant reasons to suspect inaccuracies or errors. Moreover, the dataset represents the system's performance during its operational phase, which is crucial for understanding its actual reliability in a real-world context. Given that there are no apparent outliers and anomalies, it is justifiable to include the full spectrum of data. This comprehensive approach ensures that we take into account all available information, thereby providing a holistic view of the system's reliability throughout its timeline.
 
 # Assessment Using Reliability Demonstration Chart 
+Datachosen --> CRS3.Data
+
+Smallest MTTFMin before not being acceptable = 0.087 
+
+### MTTFmin Chosen = 0.087
+
+![](./report-media/selected_model_results.png)
+
+### 2 X MTTFmin Chosen = 0.174
+![](./report-media/selected_model_results.png)
+
+### 1/2 X MTTFmin Chosen = 0.0435
+
+![](./report-media/selected_model_results.png)
+
+
+
+
+
+
+
+
+
+
+
 
 # 
 
