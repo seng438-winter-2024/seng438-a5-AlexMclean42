@@ -34,13 +34,22 @@ We selected the truncated logistic and IFR generalized Salvia and Bollinger mode
 ### Result of range analysis
 After careful examination of the fault graph and considering the quality and characteristics of the data presented, we have decided to utilize the entire range of data for our analysis. The data quality has been assessed as high, with no significant reasons to suspect inaccuracies or errors. Moreover, the dataset represents the system's performance during its operational phase, which is crucial for understanding its actual reliability in a real-world context. Given that there are no apparent outliers and anomalies, it is justifiable to include the full spectrum of data. This comprehensive approach ensures that we take into account all available information, thereby providing a holistic view of the system's reliability throughout its timeline.
 
-## Plots for failure rate and reliability of the SUT
+## Plots for failure intensity and reliability of the SUT
 
-# ADD ME HERE!! (DELETE ME)
+![](./report-media/failure_intensity.png)
+*Failure Intensity Graph*
+
+![](./report-media/reliability_graph.png)
+*Reliability Graph*
+
+![](./report-media/mvf.png)
+*MVF*
 
 ## Discussion on decision making given a target failure rate
 
-# ADD ME HERE!! (DELETE ME)
+Setting a target failure rate is defines the acceptable levels of risk to guide development processes. By monitoring the failure rate, and considering the target, teams can apply maintainence and adjustments in a timely manner. This can help provide consistent reliability, and offer a metric to help leaders decide importance of tasks. 
+
+With C-SFRAT, we plotted various target failure rates. For example, we derived a baseline target failure rate from the MTTF. Depending on our project goals and timelines, we can adjust this target rate higher to allow for more immediate, intensive reliability improvements, or set it lower to extend the timeline for achieving these improvements, balancing between development pace and reliability enhancement.
 
 ## Advantages and disadvantages of reliability growth analysis
 ### Advantages
