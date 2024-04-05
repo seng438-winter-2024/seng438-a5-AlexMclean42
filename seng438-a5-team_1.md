@@ -70,6 +70,8 @@ Smallest MTTFMin before not being acceptable = 0.087
 
 
 # Explain your evaluation and justification of how you decide the MTTFmin
+# ADD ME HERE!! (DELETE ME)
+
 
 # A discussion on the advantages and disadvantages of RDC
 ### Advantages of RDC:
