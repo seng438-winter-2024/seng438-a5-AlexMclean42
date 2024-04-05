@@ -63,7 +63,7 @@ Throughout this assignment, we did not face any major challenges as a group. But
 - UTM Windows VM (We were not able to create an instance what wouldn't crash when trying to login to windows)
 - University of Calgary's own computers (Didn't work as they don't have Java installed, and don't let you run .exe files without admin approval)
 
-We ended up getting it working using Azure's VM, but this entire process was such a pain to over come. Maybe it might have been easier to use a differnt growth testing software... (If we did this lab again...)
+We ended up getting it working using Azure's VM, but this entire process was such a pain to over come. Maybe it might have been easier to use a different growth testing software... (If we did this lab again...)
 
 # Comments/feedback on the lab itself
 Other then the major challenge faced above, we really enjoyed this lab, it was helpful getting us familiar with the growth testing process, and using some concepts we learned in class in a real time environment. We found the lab document itself great and very easy to understand. Furthermore, the lab structure allowed for effective learning of testing methodologies and signified the importance of testing in a variety of methods.
