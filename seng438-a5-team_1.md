@@ -38,14 +38,14 @@ Smallest MTTFMin before not being acceptable = 0.087
 
 ### MTTFmin Chosen = 0.087
 
-![](./report-media/Screen Shot 2024-04-04 at 6.13.01 PM.png)
+![](./report-media/mainmttf.png)
 
 ### 2 X MTTFmin Chosen = 0.174
-![](./report-media/Screen Shot 2024-04-04 at 6.14.54 PM.png)
+![](./report-media/full.png)
 
 ### 1/2 X MTTFmin Chosen = 0.0435
 
-![](./report-media/Screen Shot 2024-04-04 at 6.16.10 PM.png)
+![](./report-media/half.png)
 
 
 
