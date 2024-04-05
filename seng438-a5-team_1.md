@@ -51,8 +51,22 @@ Smallest MTTFMin before not being acceptable = 0.087
 # 
 
 # Comparison of Results
+1. **Similarities:**
+    - Both techniques aim to assess the reliability of the system under test.
+    - They involve analyzing failure data to make informed decisions about the system's reliability.
+2. **Differences:**
+    - Reliability growth testing focuses on analyzing the trend of failure data over time to assess improvements in reliability during testing phases.
+    - RDC, on the other hand, assesses reliability based on cumulative failure observations and is particularly useful when failure data is limited and time of failures is known.
+    - The techniques use different tools and methodologies for analysis (C-SFRAT for reliability growth testing and RDC for reliability demonstration chart).
+
+In summary, while both techniques serve the purpose of reliability assessment, they differ in their approaches and methodologies. Reliability growth testing focuses on improvements over time, while RDC provides a snapshot assessment based on cumulative failure observations. The choice of technique depends on factors such as the availability of data and the stage of testing or operation of the system.
+
 
 # Discussion on Similarity and Differences of the Two Techniques
+
+
+
+
 
 # How the team work/effort was divided and managed
 As a team, we decided to split the work by sections. Two members worked on the first part of the lab on "Reliability Growth Testing" while the other two members worked on the second part on "Assessment using reliability demonstration chart". Once both parts were completed, all members reviewed the work of others, and gave feedback if needed. This divided the work load between team members, while achieving effective progress. 
