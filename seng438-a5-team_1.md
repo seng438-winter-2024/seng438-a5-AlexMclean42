@@ -62,6 +62,7 @@ Throughout this assignment, we did not face any major challenges as a group. But
 - University of Calgary's Windows 10 VMware Horizon Client (Didn't work as they don't have Java installed, and don't let you run .exe files without admin approval) 
 - UTM Windows VM (We were not able to create an instance what wouldn't crash when trying to login to windows)
 - University of Calgary's own computers (Didn't work as they don't have Java installed, and don't let you run .exe files without admin approval)
+
 We ended up getting it working using Azure's VM, but this entire process was such a pain to over come. Maybe it might have been easier to use a differnt growth testing software... (If we did this lab again...)
 
 # Comments/feedback on the lab itself
