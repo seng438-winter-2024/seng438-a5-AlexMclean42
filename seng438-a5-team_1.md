@@ -78,7 +78,7 @@ Smallest MTTFMin before not being acceptable = 0.087
 
 
 # Explain your evaluation and justification of how you decide the MTTFmin
-# ADD ME HERE!! (DELETE ME)
+We selected the MTTFmin value of 0.087 by closely examining the accept boundary. Our observation indicated that the failure data aligns closely with the boundary of the accept region. This value indicates the true value of MTTFmin that lies within the accept boundary. When altering the value of MTTFmin to be 2xMTTFmin, we observed that the failure data further moved into the accept region. This indicates that the MTTFmin value of 0.087 is a critical threshold, and any increase beyond this value significantly improves the reliability of the system. Futher, when observing the results 1/2xMTTFmin had on the failure data, we saw that the failure data moved into the continue region. This suggests that decreasing the MTTFmin below 0.087 would negatively impact the reliability of the system, as failures would occur more frequently and potentially fall outside the acceptable range. Overall, our analysis underscores the importance of selecting an appropriate MTTFmin value to ensure the system operates reliably within specified parameters.
 
 
 # A discussion on the advantages and disadvantages of RDC
